@@ -14,7 +14,6 @@ $conda create --name inptlab python=3.6
 
 #### activate env
 $source activate inptlab
-(dgimllab)$
 
 ### Install packages 
 (inptlab)$pip3 install --upgrade pip
