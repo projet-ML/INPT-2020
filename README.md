@@ -1,10 +1,27 @@
 # INPT-2020
 
-Machine Learning Lab
+# Machine Learning Lab Guidlines
+
+## Links to google forms
+
+1. Linear Regression:(deadline: before **17 March**)
+   
+2. Logistic Regression:(deadline: before **17 March**)
+   
+3. Support Vector Machines:(deadline: before **18 March**)
+   
+4. Ensemble Learning:(deadline: before **18 March**)
+   
+5. Artificial Neural Networks: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **19 March**)
+   
+6. Unsupervised Learning: https://forms.gle/y1fuZ9XhkY2Z7eki6 (deadline: before **19 March**)
+
 
 ## Lab setup
 
-### Install Miniconda
+You just need a google account for using Colab. Otherwise, you can use a virtual environment like conda to run locally.
+
+### On local: Install Miniconda
 
 #### Download
 
@@ -46,7 +63,3 @@ Miniconda from https://conda.io/miniconda.html
 
 !pip install numpy
 
-# Links to google forms
-
-1. Linear Regression
-2. Logistic Regression
