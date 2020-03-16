@@ -4,13 +4,13 @@
 
 ## Links to google forms
 
-1. Linear Regression:(deadline: before **17 March**)
+1. Linear Regression: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **17 March**)
    
-2. Logistic Regression:(deadline: before **17 March**)
+2. Logistic Regression: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **17 March**)
    
-3. Support Vector Machines:(deadline: before **18 March**)
+3. Support Vector Machines: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **18 March**)
    
-4. Ensemble Learning:(deadline: before **18 March**)
+4. Ensemble Learning: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **18 March**)
    
 5. Artificial Neural Networks: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **19 March**)
    
