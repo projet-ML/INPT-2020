@@ -7,6 +7,7 @@ You can use the data in this current folder or use any other usefull datasets ab
 
 You can also find notebooks and blogs about COVID19. This is a very short list:
 
+- http://tafra.ma/au-maroc-le-coronavirus-ne-peut-plus-etre-stoppe-mais-on-peut-encore-sauver-des-vies/
 - https://towardsdatascience.com/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8
 - https://www.medrxiv.org/content/10.1101/2020.03.04.20031104v1.full.pdf
 - https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
