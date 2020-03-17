@@ -8,7 +8,7 @@
    
 2. Logistic Regression: https://forms.gle/ey2GdVmcw1w18yf89 (deadline: before **17 March**)
    
-3. Support Vector Machines: https://forms.gle/8ZE9PRxEPPrzEFpF (deadline: before **18 March**)
+3. Support Vector Machines: https://forms.gle/HX2dcujN8XDwQM3t9 (deadline: before **18 March**)
    
 4. Ensemble Learning: https://forms.gle/qoru7FYCHxTv6zZ37 (deadline: before **18 March**)
    
