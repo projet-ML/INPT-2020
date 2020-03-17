@@ -6,7 +6,7 @@
 
 1. Linear Regression: https://forms.gle/mrd5PJi3TbkAq1Zx7 (deadline: before **17 March**)
    
-2. Logistic Regression: https://forms.gle/8ZE9PRxEPPrzEFpF (deadline: before **17 March**)
+2. Logistic Regression: https://forms.gle/ey2GdVmcw1w18yf89 (deadline: before **17 March**)
    
 3. Support Vector Machines: https://forms.gle/8ZE9PRxEPPrzEFpF (deadline: before **18 March**)
    
