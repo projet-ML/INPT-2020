@@ -4,7 +4,7 @@
 
 ## Links to google forms
 
-1. Linear Regression: https://forms.gle/8ZE9PRxEPPrzEFpF (deadline: before **17 March**)
+1. Linear Regression: https://forms.gle/mrd5PJi3TbkAq1Zx7 (deadline: before **17 March**)
    
 2. Logistic Regression: https://forms.gle/8ZE9PRxEPPrzEFpF (deadline: before **17 March**)
    
