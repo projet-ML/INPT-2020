@@ -10,7 +10,7 @@
    
 3. Support Vector Machines: https://forms.gle/8ZE9PRxEPPrzEFpF (deadline: before **18 March**)
    
-4. Ensemble Learning: https://forms.gle/8ZE9PRxEPPrzEFpF (deadline: before **18 March**)
+4. Ensemble Learning: https://forms.gle/qoru7FYCHxTv6zZ37 (deadline: before **18 March**)
    
 5. Artificial Neural Networks: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **19 March**)
    
