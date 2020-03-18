@@ -20,3 +20,4 @@ You can also find notebooks and blogs about COVID19. This is a very short list:
 - https://www.thelancet.com/action/showPdf?pii=S1473-3099%2820%2930195-X
 - https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 - https://venturebeat.com/2020/03/16/microsoft-white-house-and-allen-institute-release-coronavirus-data-set-for-medical-and-nlp-researchers/
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551006
