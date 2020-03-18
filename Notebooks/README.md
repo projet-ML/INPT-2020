@@ -4,17 +4,19 @@
 
 ## Links to google forms
 
-1. Linear Regression: https://forms.gle/mrd5PJi3TbkAq1Zx7 (deadline: before **17 March**)
+1. Linear Regression: https://forms.gle/mrd5PJi3TbkAq1Zx7 (deadline: before **18 March**)
    
-2. Logistic Regression: https://forms.gle/ey2GdVmcw1w18yf89 (deadline: before **17 March**)
+2. Logistic Regression: https://forms.gle/ey2GdVmcw1w18yf89 (deadline: before **19 March**)
    
-3. Support Vector Machines: https://forms.gle/8ZE9PRxEPPrzEFpF (deadline: before **18 March**)
+3. Support Vector Machines: https://forms.gle/HX2dcujN8XDwQM3t9 (deadline: before **20 March**)
    
-4. Ensemble Learning: https://forms.gle/qoru7FYCHxTv6zZ37 (deadline: before **18 March**)
+4. Ensemble Learning: https://forms.gle/qoru7FYCHxTv6zZ37 (deadline: before **21 March**)
    
-5. Artificial Neural Networks: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **19 March**)
+5. Artificial Neural Networks: https://forms.gle/8ZE9PRxEPPrzEFpF6 (deadline: before **22 March**)
    
-6. Unsupervised Learning: https://forms.gle/y1fuZ9XhkY2Z7eki6 (deadline: before **19 March**)
+6. Unsupervised Learning: https://forms.gle/y1fuZ9XhkY2Z7eki6 (deadline: before **23 March**)
+
+7. Deep Learning (TBA)
 
 
 ## Lab setup
